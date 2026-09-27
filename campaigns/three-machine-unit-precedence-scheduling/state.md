@@ -2,9 +2,8 @@
 
 Status: Prepare complete on 2026-09-26. No reduction or solution is claimed.
 
-Scope: establish the independent testing foundation only.
 
-Round budget: 0 construction rounds authorized in this setup task.
+Initial setup: this pass built the testing foundation and ran no construction rounds. Future work follows the current user's scope and pipeline.
 
 Capability probe (2026-09-26): Python 3.12.14 and uv 0.12.17; Z3 Python 4.16.0
 locked in `uv.lock`; Kissat 4.0.4, Typst 0.15.1 and Lake 5.0.0 with Lean 4.34.1
